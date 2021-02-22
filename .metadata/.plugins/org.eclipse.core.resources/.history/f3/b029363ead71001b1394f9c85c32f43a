@@ -1,0 +1,9 @@
+package com.yashbhalani.first;
+
+public class Alien {
+
+	public void code() {
+	System.out.println("I mcoding..");
+	}
+	
+}
