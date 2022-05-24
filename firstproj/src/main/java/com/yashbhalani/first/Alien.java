@@ -8,7 +8,7 @@ public class Alien {
     @Autowired
 	Laptop lap;
 	public void code() {
-	System.out.println("I mcoding..");
+	System.out.println("I am coding..");
 	lap.compile();
 	}
 	
