@@ -6,7 +6,7 @@ import org.springframework.stereotype.Component;
 @Component 
 public class Alien {
     @Autowired
-	Laptop lap;
+	Laptop laptop;
 	public void code() {
 	System.out.println("I am coding..");
 	lap.compile();
